@@ -1,5 +1,5 @@
-package kiss;
+package com.company.kiss;
 
 public interface IntegrationHandler {
-    public String getHandlerFor(String integration) ;
+    public IntegrationHandler getHandlerFor(String integration) ;
 }
