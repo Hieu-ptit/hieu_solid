@@ -5,10 +5,6 @@ public class Database {
 
     }
 
-    public void logError(String s, String toString) {
-
-    }
-
     public void addAsTag(String postMessage) {
 
     }
